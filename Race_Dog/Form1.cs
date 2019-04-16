@@ -10,11 +10,31 @@ using System.Windows.Forms;
 
 namespace Race_Dog
 {
-    public partial class Form1 : Form
+    public partial class betMoney : Form
     {
-        public Form1()
+        public betMoney()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void betMoney_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
